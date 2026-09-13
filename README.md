@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Nensi Haraniya
 
-<!--
-**nensi-haraniya/nensi-haraniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Aspiring Software Developer  
+🚀 Learning & Building Projects
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming Languages
+- C
+- C++
+- Java
+- Python
+- PHP
+- JavaScript
+
+### 🌐 Web Development
+- HTML
+- CSS
+- ASP.NET
+
+### 🗄️ Database
+- MySQL
+
+### 🔧 Tools
+- Git
+- GitHub
+- VS Code
+- XAMPP
+
+## 📌 Projects
+
+### Nutoria Dryfruit Shop
+An online dry-fruit e-commerce website built using PHP, MySQL, HTML and CSS.
+
+## 🌱 Currently Learning
+- Web Development
+- Git & GitHub
+- Software Development
+
+## 🎯 Goal
+To become a skilled Software Developer and build useful real-world projects.
